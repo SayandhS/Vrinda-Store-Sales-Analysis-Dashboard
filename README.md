@@ -11,7 +11,7 @@ This project involves analyzing the annual sales performance of Vrinda Store in 
 + Data Visualization
 
 
-## 🔍 Business Problems Explored
+##  Business Problems Explored
 
 This project wasn't just about crunching numbers; it was about uncovering insights that could drive business growth and improve decision-making. 📈
 
