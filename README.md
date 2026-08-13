@@ -10,7 +10,6 @@ This project involves analyzing the annual sales performance of Vrinda Store in 
 + Dashboard Design
 + Data Visualization
 
-##  Business Questions Answered
 
 ## 🔍 Business Problems Explored
 
